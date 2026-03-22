@@ -11,6 +11,6 @@ HTML
 CSS
 responsive design "media queries"
 
-Just open [] in your browser. 👨‍💻 Author
+Just open [https://product-preview-card-component-lyart-three.vercel.app/] in your browser. 👨‍💻 Author
 
 Created by [Mohamed Guenfoudi]
