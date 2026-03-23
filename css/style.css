@@ -9,4 +9,10 @@
 
 }
 /* first we start with design of mobile version */
-body{background-color: var(--c-cream);}
+body{min-height: 100vh; background-color: var(--c-cream);display: flex;}
+body main {max-width: 350px;margin: auto;border-radius: 8px;background-color: var(--c-white);overflow: hidden;}
+body main .card-component{ display: flex;justify-content: space-between;align-items: center;flex-direction: column;}
+body main .card-component .img-card{width: 100%;height: 342px;}
+body main .card-component .img-card img{width: 100%;height: 100%;object-fit: fill;}
+body main .card-component .card-content .card-description{padding: 32px;}
+    
